@@ -3,6 +3,8 @@ stb
 
 single-file public domain (or MIT licensed) libraries for C/C++
 
+# This project discusses security-relevant bugs in public in Github Issues and Pull Requests, and it may take significant time for security fixes to be implemented or merged. If this poses an unreasonable risk to your project, do not use stb libraries.
+
 Noteworthy:
 
 * image loader: [stb_image.h](stb_image.h)
