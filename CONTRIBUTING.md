@@ -11,7 +11,7 @@ pull requests.
 Additionally, don't use LLMs to create pull requests or issues.
 Write them yourself, in English, even if your English is bad.
 
-[Here are some reasons to reject LLMs](https://codeberg.org/small-hack/open-slopware#why-not-llms)
+[Here are some reasons to reject LLMs](https://codeberg.org/ethical-foss/open-slopware/src/branch/main/why_not_llms.md)
 
 
 Contributions Welcome
